@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sikoo54
-- 👀 I’m interested in Technology
+- 👋 Hi, I’m Sacha Ahsan
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on learning
+- - 👀 I'm interested in becoming a Frontend Developer
 - 📫 How to reach me ig @sacha.af
 
 <!---
